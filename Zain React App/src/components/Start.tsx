@@ -1,9 +1,9 @@
 import UserList from './UserList'
 import User from '../interfaces/userInterface'
-
+import Counter from './counter'
 function Start() {
     
-  return <UserList/>
+  return <Counter/>
 }
 
 export default Start
